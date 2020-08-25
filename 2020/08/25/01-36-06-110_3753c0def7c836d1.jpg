@@ -1,0 +1,446 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Bolet&iacute;n digital de recursos de empleo, formaci&oacute;n y ayudas y subvenciones de las comarcas de la Jacetania y el Alto G&aacute;llego</title>
+<meta name="description" content="Asociación para el Desarrollo Adecuara. La Jacetania y Alto Gállego (Aragón). Información Programa Leader 2007-2013. Cooperación, formación y noticias">
+<meta name="keywords" content="adecuara,asociación,desarrollo,Alto Gállego,Jacetania,programa leader,documentación,formación,noticias,cooperacion,contacto,rural,proder">
+<meta name="description" content="Asociación para el desarrollo integral del Alto Gállego y La Jacetania. Información sobre el programa Leader 2007-2013: documentación, requisitos, etc... También actualidad, formación, acciones de cooperación, territorio...">
+<style type="text/css">
+
+body {
+	margin-top: 0px;
+	background-color: #F7F6E8;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333;
+}
+a:link {
+	color: #6F7D2B;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #9A9F3E;
+	text-decoration: none;
+}
+a:hover {
+	color:#FF6600;
+}
+.titulo_noticia {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	color: #9EB23E;
+}
+.titulo_listado {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #91A338;
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: justify;
+}
+.parrafo_negro {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000;
+}
+.fondo_agente {
+	background-color: #EFEFEF;
+	width: 98%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 5px;
+}
+.columnade2 {
+	float: left;
+	width: 45%;
+	padding: 5px;
+	margin: 5px;
+}
+.columnade3 {
+	float: left;
+	width: 30%;
+	padding: 5px;
+	margin: 5px;
+}
+
+.parrafo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #666666;
+}
+
+#noticia {
+	border: 1 px solid grey;
+	padding: 40 px;
+}
+.fecha {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+}
+.borde_punteado_verde {
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: dotted;
+	border-right-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+	border-top-color: #C6C800;
+	border-right-color: #C6C800;
+	border-bottom-color: #C6C800;
+	border-left-color: #C6C800;
+}
+.titulo_seccion {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	color: #C6C800;
+}
+.foto_noticia {
+	margin: 3px;
+ 	padding: 3px;
+}
+.titulo_interior {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #91A338;
+	font-style: italic;
+}
+.destacado_texto {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #99A542;
+	font-weight: bold;
+}
+.lineainf {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-left-width: 0px;
+	border-top-style: dotted;
+	border-right-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+	border-top-color: #C6C800;
+	border-right-color: #C6C800;
+	border-bottom-color: #C6C800;
+	border-left-color: #C6C800;
+}
+.lineaizda {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 1px;
+	border-top-style: dotted;
+	border-right-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+	border-top-color: #C6C800;
+	border-right-color: #C6C800;
+	border-bottom-color: #C6C800;
+	border-left-color: #C6C800;
+}
+.numbol {
+	float: right;
+	width: 125px;
+}
+.borde_verde {
+	border: 1px solid #9EB23E;
+}
+.linea_punteada_verde {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 1px;
+	border-top-style: dotted;
+	border-right-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+	border-top-color: #C6C800;
+	border-right-color: #C6C800;
+	border-bottom-color: #C6C800;
+	border-left-color: #C6C800;
+}
+.borde_punteado_naranja {
+
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: dotted;
+	border-right-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+	border-top-color: #F99932;
+	border-right-color: #F99932;
+	border-bottom-color: #F99932;
+	border-left-color: #F99932;
+}
+.borde_gral_naranja {
+
+
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: dotted;
+	border-right-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+	border-top-color: #F99932;
+	border-right-color: #F99932;
+	border-bottom-color: #F99932;
+	border-left-color: #F99932;
+}
+.borde_gral_verde {
+	border: 1px dotted #C6C800;
+}
+.titulo_18_oscuro {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #99A542;
+}
+.titulo_16_gris {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #99A542;
+}
+.foto {
+	padding:10px;
+	background-color: #f7f7f7;
+	width: 250px;
+	border-bottom: 1px solid #999999;
+	border-right: 1px solid #999999;
+}
+.foto300x189 {
+	padding:10px;
+	background-color: #f7f7f7;
+	width: 300px;
+	border-bottom: 1px solid #999999;
+	border-right: 1px solid #999999;
+}
+.enconstruccion {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	color: #5C6429;
+	font-style: italic;
+	font-weight: bold;
+}
+
+#navsite h5 {
+ display: none;
+}
+#navsite ul {
+	padding: 8px 0;
+	margin-left: 0;
+	margin-bottom:0;
+ font color: #ffffff;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+#navsite ul li {
+ list-style: none;
+ margin: 0; 
+ display: inline; 
+}
+#navsite ul li a {
+	padding: 8px 35px;
+	margin-left: 1px;
+	border: 1px solid #C3CD7C;
+	border-bottom: none;
+	background: #99A542;
+	text-decoration: none;
+}
+#navsite ul li a:link {
+ color: #ffffff;
+}
+#navsite ul li a:visited {
+	color:  #CCC;
+}
+#navsite ul li a:link:hover, #navsite ul li a:visited:hover {
+	color: #494C1D;
+	background: #CAD57C;
+}
+#navsite ul li a#current {
+ background: white; 
+ border-bottom: 1px solid white;
+}
+.pequelink {
+	font-size: 11px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+.textogris {
+	color: #666;
+}
+.textogris_num {
+	color: #999;
+	font-size: 12px;
+}
+.clear {
+	height: 10px;
+	clear: both;
+	width: 98%;
+}
+.numbol1 {	float: right;
+	width: 125px;
+	font-size: 10px;
+	text-align: center;
+}
+.novedad {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #4A5F1F;
+	margin-left: 18px;
+	margin-right: 35px;
+	background-image: url(boletin_images/ico_novedad.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	padding-right: 6px;
+	padding-bottom: 8px;
+	padding-left: 25px;
+}
+.destacado_boletin_f {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #4A5F1F;
+	padding-top: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+}
+.destacado_boletin_f a:link {
+	color: #4A5F1F;
+	}
+.destacado_boletin_f a:visited {
+	color: #4A5F1F;
+}
+.destacado_boletin_f a:hover {
+	color: #FF6600;
+}	
+.presentacion {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #4A5F1F;
+}
+.presentacion_gris {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #999;
+}
+.presentacion_naranja {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #C60;
+}
+.email {	font-size: 10px;
+}
+.enlacepie {	font-size: 10px;
+}
+.parrafo_negro11 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000;
+}
+</style>
+</head>
+
+<body>
+  <table width="850" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+    <tr>
+      <td><div align="center" class="titulo_seccion Estilo3"><a href="http://www.adecuara.org/" target="_blank"><img src="http://www.adecuara.org/boletin_images/banda_boletin_p.jpg" alt="Adecuara. Asociaci&oacute;n para el desarrollo integral de la Cuna de Arag&oacute;n" width="850" height="210" border="0"></a></div></td>
+    </tr>
+        <tr>
+        <td valign="middle">
+          <a href="http://www.adecuara.org/boletin.php" accesskey="i"><img src="http://www.adecuara.org/images/menu/inicio15.jpg" alt="Inicio" width="53" height="30" border="0"></a>
+          <a href="http://www.adecuara.org/boletin_contenido.php?etipo=SUBVENCIONES" accesskey="q"><img src="http://www.adecuara.org/images/menu/ayudas.jpg" alt="Ayudas y subvenciones" width="200" height="30" border="0"></a>
+          <a href="http://www.adecuara.org/boletin_contenido.php?etipo=FORMACION" accesskey="t"><img src="http://www.adecuara.org/images/menu/formacion15.jpg" alt="Formaci&oacute;n" width="105" height="30" border="0"></a>
+          <a href="http://www.adecuara.org/boletin_contenido.php?etipo=EMPLEO" accesskey="l"><img src="http://www.adecuara.org/boletin_images/empleoylicitaciones.jpg" alt="Empleo" width="170" height="30" border="0"> </a><a href="http://www.adecuara.org/boletin_contenido.php?etipo=NOTICIAS"><img src="http://www.adecuara.org/boletin_images/noticiasyagenda.jpg" alt="Empleo" width="150" height="30" border="0"></a>
+          <a href="http://www.adecuara.org/" target="_blank"><img src="http://www.adecuara.org/images/menu/leader14.jpg" alt="LEADER 2014-2020" width="128" height="30" border="0"></a></td>
+      </tr>
+    <tr>
+      <td valign="top">
+      <table width="100%" border="0" cellspacing="3" cellpadding="5">
+        <tr>
+          <td colspan="2"><div class="numbol1"><a href="javascript:history.back()">[ VOLVER ]</a></div>
+            <p class="titulo_interior">Recursos: EMPLEO/favicon.ico</p>
+           
+            
+            
+          </td>
+        </tr>
+        </table>
+      </td>
+    </tr>
+    
+    <tr>
+      <td align="center" valign="middle" class="lineainf"><table width="500" border="0" align="center" cellpadding="3" cellspacing="2">
+        <tr>
+          <td colspan="6" align="left">&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan="6" align="left" class="textogris_num">ENLACES DE INTER&Eacute;S:</td>
+        </tr>
+        <tr>
+          <td width="20%" align="center"><a href="http://www.jaca.es" target="_blank"><img src="http://www.adecuara.org/boletin_images/actu/ayuntamientojaca.jpg" alt="Ayuntamiento de Jaca - www.jaca.es" width="110" height="60" border="0"></a></td>
+          <td width="20%" align="center"><a href="http://www.jacetania.es" target="_blank"><img src="http://www.adecuara.org/boletin_images/actu/comarcajace.jpg" alt="Comarca de La Jacetania - www.jacetania.es" width="110" height="60" border="0"></a></td>
+          <td width="20%" align="center"><a href="http://www.biescas.es" target="_blank"><img src="boletin_images/actu/ayuntamientobiescas.jpg" alt="Ayuntamiento de Biescas www.biescas.es" width="110" height="60" border="0"></a></td>
+          <td width="20%" align="center"><a href="http://www.adecuara.org" target="_blank"><img src="http://www.adecuara.org/boletin_images/actu/adecuara.jpg" alt="Adecuara" width="110" height="60" border="0"></a></td>
+          <td width="20%" align="center"><a href="http://www.comarcaaltogallego.es" target="_blank"><img src="http://www.adecuara.org/boletin_images/actu/altogallego.jpg" alt="Comarca Alto G&aacute;llego" width="110" height="60" border="0"></a></td>
+          <td width="20%" align="center"><a href="http://www.sabi&ntilde;anigo.es" target="_blank"><img src="http://www.adecuara.org/boletin_images/actu/sabi.jpg" alt="Ayuntamiento de Sabi&ntilde;&aacute;nigo" width="110" height="60" border="0"></a></td>
+        </tr>
+        <tr>
+          <td align="center" class="enlacepie"><a href="http://www.jaca.es" title="Ayto. de Jaca" target="_blank">www.jaca.es</a></td>
+          <td align="center" class="enlacepie"><a href="http://www.jacetania.es" target="_blank">www.jacetania.es</a></td>
+          <td align="center" class="enlacepie"><a href="http://www.biescas.es" target="_blank">www.biescas.es</a></td>
+          <td align="center" class="enlacepie"><a href="http://www.adecuara.org" target="_blank">www.adecuara.org</a></td>
+          <td align="center" class="enlacepie"><a href="http://www.comarcaaltogallego.es" title="Comarca Alto G&aacute;llego" target="_blank" class="email">www.comarcaaltogallego.es</a></td>
+          <td align="center" class="enlacepie"><a href="http://www.sabi&ntilde;anigo.es" title="Ayto. Sabi&ntilde;&aacute;nigo" target="_blank">www.sabi&ntilde;anigo.es</a></td>
+        </tr>
+        <tr>
+          <td align="center" class="pequelink">&nbsp;</td>
+          <td align="center" class="pequelink">&nbsp;</td>
+          <td align="center" class="pequelink">&nbsp;</td>
+          <td align="center" class="pequelink">&nbsp;</td>
+          <td align="center" class="pequelink">&nbsp;</td>
+          <td align="center" class="pequelink">&nbsp;</td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td height="50" valign="middle" align="center"><blockquote>
+        <table width="350" border="0" align="center" cellpadding="5" cellspacing="0">
+          <tr>
+            <td colspan="5" align="center">&nbsp;</td>
+          </tr>
+          <tr>
+            <td width="20%" align="center"><img src="http://www.adecuara.org/boletin_images/actu/pie_adecuara.jpg" alt="ADECUARA" width="90" height="49" hspace="4" vspace="4" /></td>
+            <td width="20%" align="center"><img src="http://www.adecuara.org/boletin_images/actu/pie_radr.jpg" alt="Red aragonesa de desarrollo rural" width="73" height="40" border="0"></td>
+            <td width="20%" align="center"><img src="http://www.adecuara.org/boletin_images/actu/pie_ibercaja.jpg" alt="Ibercaja" border="0"></td>
+            <td width="20%" align="center"><img src="http://www.adecuara.org/boletin_images/actu/pie_gobiernoaragon.jpg" alt="Gobierno de Arag&oacute;n" width="90" height="36" border="0"></td>
+            <td width="20%" align="center"><img src="http://www.adecuara.org/boletin_images/actu/pie_mamrm.jpg" alt="Ministerio de Medio Ambiente y Medio Rural y Marino" width="143" height="30" border="0"></td>
+          </tr>
+          <tr>
+            <td colspan="5" align="center" class="parrafo_negro11"><strong>Red de Antenas rurales para el empleo, la formaci&oacute;n y la dinamizaci&oacute;n empresarial</strong></td>
+          </tr>
+        </table>
+        <p align="justify" class="fecha"><span class="parrafo">&copy; ADECUARA: Asociaci&oacute;n para el Desarrollo Integral de la Cuna de Arag&oacute;n</span></p>
+        <p align="justify" class="fecha">ADECUARA es el responsable de un listado de suscriptores con su correo cuya finalidad es el env&iacute;o de un bolet&iacute;n electr&oacute;nico con noticias y novedades relacionadas con los recursos de empleo, formaci&oacute;n y ayudas y subvenciones de los que se dispone en las Comarcas de La Jacetania y Alto G&aacute;llego. En virtud de las Leyes espa&ntilde;olas, usted tiene derecho de oposici&oacute;n, acceso, rectificaci&oacute;n y cancelaci&oacute;n de sus datos. Es por ello que le comunicamos el mecanismo que ponemos a su alcance para ejercer sus derechos. Puede ejercer los derechos de oposici&oacute;n, acceso, rectificaci&oacute;n y cancelaci&oacute;n dirigi&eacute;ndose por escrito a: ADECUARA. C/ Secor&uacute;n, 35. 22600 Sabi&ntilde;&aacute;nigo (Huesca) Telf: 974 483311 - Fax: 974 483437 correo electr&oacute;nico:<a href="mailto:adecuara@adecuara.org"> adecuara@adecuara.org</a>(Espa&ntilde;a). </p>
+        <p align="justify" class="fecha"><strong><a href="http://www.adecuara.org/baja.php">Darse de baja como suscriptor del bolet&iacute;n</a></strong></p>
+        <p align="center" class="textogris_num">&nbsp;</p>
+        <p align="center" class="textogris_num">Sitio web realizado por <a href="http://www.pirineum.es" target="_blank"><img src="images_08/pirineum1.jpg" alt="Pirineum dise&ntilde;o" width="125" height="14" border="0" align="absmiddle" /></a></p>
+        <p align="justify" class="fecha">&nbsp;</p>
+      </blockquote></td>
+    </tr>
+  </table>
+</body>
+</html>
